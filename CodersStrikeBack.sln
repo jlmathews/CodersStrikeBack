@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.489
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CodersStrikeBackWL1", "CodersStrikeBackWL1\CodersStrikeBackWL1.csproj", "{C36D0228-649C-4D4A-8722-15CAA597EACF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C36D0228-649C-4D4A-8722-15CAA597EACF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C36D0228-649C-4D4A-8722-15CAA597EACF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C36D0228-649C-4D4A-8722-15CAA597EACF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C36D0228-649C-4D4A-8722-15CAA597EACF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {679A4548-0FDA-43E2-A1BE-1BE9560EC890}
+	EndGlobalSection
+EndGlobal
